@@ -64,7 +64,7 @@
 
     Шаги воспроизведения:
 
-      1.ввести в поле ввода email «EVGENYKANKIN@GMAIL>COM»
+      1.ввести в поле ввода email «EVGENYKANKIN@GMAIL.COM»
 
       2.нажать кнопку «Проверить»
 
